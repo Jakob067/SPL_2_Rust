@@ -13,5 +13,3 @@ fn main() {
 
     println!("You guessed: {guess}");
 }
-
-//Vorerst fertig bei "Handling potential Failure im Tutorial"
